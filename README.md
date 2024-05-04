@@ -5,7 +5,7 @@ My first Website using React js
 This project was bootstrapped with [Vite](url)<br>
 ## Commands to run:
 
-```markdown
+```bash
   #clone this repository
   $git clone https://github.com/jahnavi-57/AirBnb-clone-using-reactjs
   
@@ -16,7 +16,7 @@ This project was bootstrapped with [Vite](url)<br>
   $npm install
   
   #Final command to open the website
-  #npm run dev
+  $npm run dev
 ```
 ## Screenshots
 ![Screenshot 2024-05-03 130048](https://github.com/Jahnavi-57/AirBnb-clone-using-reactjs/assets/130915370/870edd6e-77d8-42aa-bacb-76dcfcfd44d3)
