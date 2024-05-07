@@ -1,5 +1,6 @@
 # AirBnb-clone-using-reactjs
 My first Website using React js
+- Static web page
 
 # Getting Started
 This project was bootstrapped with [Vite](url)<br>
