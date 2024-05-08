@@ -3,7 +3,8 @@ My first Website using React js
 - It is a Static web page
 
 # Getting Started
-This project was bootstrapped with [Vite](url)<br>
+This project was bootstrapped with [Vite](url)<br><br>
+Check the webite link [here](https://air-bnb-clone-qe83cxrpl-jahanave-meesalas-projects.vercel.app/)
 ## Commands to run:
 
 ```bash
