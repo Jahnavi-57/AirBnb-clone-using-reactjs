@@ -4,7 +4,7 @@ My first Website using React js
 
 # Getting Started
 This project was bootstrapped with [Vite](url)<br><br>
-Check the live webite [here](https://air-bnb-clone-razf212aq-jahanave-meesalas-projects.vercel.app)
+Check the live webite [here](https://air-bnb-clone-drab.vercel.app/)
 ## Commands to run:
 
 ```bash
